@@ -1,6 +1,6 @@
 # Resources
 
-[Sites and Papers](https://1drv.ms/x/s!AhChYeLeqkKwgYd2GvwNrz2HIYOomA?e=uIdB7d)
+[Sites and Papers](https://1drv.ms/x/s!AhChYeLeqkKwgYd2GvwNrz2HIYOomA?e=gUXuTn)
 - Some of the papers/sites I've referenced while studying NLP
 - Summaries should only be used to help guide readers to the resource they are interested in
 - Tried to leave unnecessary technical details out
